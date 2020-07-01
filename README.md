@@ -1,4 +1,3 @@
 # Jogo-da-Velha-em-C
-
-Projeto realizado no 1° semestre do curso de engenharia elétrica da UFPR.
-Objetivo de criar um jogo da velha sem a utilização de funções.
+Project developed on the first semester of electrical engineering at Federal University of Parana.
+Main goal was to create a hash game without using functions and/or structs.
